@@ -1,11 +1,12 @@
 # Portfolio
 
 ## Purpose
-A website abot my growign skills in Web developing 
+A website abot my growing skills in Web development
 
 ## Built With 
 * HTML
 *CSS
+*flexbox etc
 
 #Website 
 https://marcus0224.github.io/Portfolio/
