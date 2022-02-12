@@ -9,7 +9,7 @@ A website abot my growing skills in Web development
 *flexbox etc
 
 #Website 
-https://marcus0224.github.io/Portfolio/
+https://marcus0224.github.io/Web-Portfolio/
 
 ## Contributions 
 by Marc St louis 
