@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Purpose
-A website abot my growing skills in Web development
+A website about my growing skills in Web development
 
 ## Built With 
 * HTML
